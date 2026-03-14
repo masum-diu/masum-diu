@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Masum
 
-<!--
-**masum-diu/masum-diu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Frontend Developer**
 
-Here are some ideas to get you started:
+I am a passionate developer specializing in **React.js, Next.js, React Native**, and using **Supabase as Backend**.
+I love building modern, scalable web and mobile applications with clean UI and great user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* 🔭 I’m currently working as a **Software Engineer at WebAble Digital**
+* 🌱 I’m currently learning **advanced frontend architecture & backend with Supabase**
+* 💬 Ask me about **React, Next.js, React Native, Supabase**
+* ⚡ Fun fact: I enjoy **learning history, philosophy, and playing guitar**
+
+---
+
+### 🛠 Tech Stack
+
+* **Frontend:** React.js, Next.js, React Native
+* **Backend:** Supabase
+* **Languages:** JavaScript, HTML5, CSS3
+* **Styling:** Tailwind CSS, Material UI
+* **Tools:** Git, GitHub, Postman, Figma
+* **Database:** PostgreSQL (Supabase)
+
+---
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/
+* 📧 Email: [masum.mollah@webable.digital](mailto:masum.mollah@webable.digital)
+
+---
+
+⭐️ From [masum-diu](https://github.com/masum-diu)
