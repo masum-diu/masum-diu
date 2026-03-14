@@ -1,75 +1,81 @@
-# Hi there 👋 I'm Masum
+# 👋 Hi, I'm Md. Masum Mollah
 
 🚀 **Software Engineer | Frontend Developer**
 
 I am a passionate developer specializing in **React.js, Next.js, React Native**, and using **Supabase as Backend**.
-I love building modern, scalable web and mobile applications with clean UI and great user experience.
+I enjoy building modern, scalable web and mobile applications with clean UI and great user experience.
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🔭 I’m currently working as a **Software Engineer at WebAble Digital**
-* 🌱 I’m currently learning **advanced frontend architecture & backend with Supabase**
-* 💬 Ask me about **React, Next.js, React Native, Supabase**
-* ⚡ Fun fact: I enjoy **learning history, philosophy, and playing guitar**
-
----
-
-### 🛠 Tech Stack
-
-* **Frontend:** React.js, Next.js, React Native
-* **Backend:** Supabase
-* **Languages:** JavaScript, HTML5, CSS3
-* **Styling:** Tailwind CSS, Material UI
-* **Tools:** Git, GitHub, Postman, Figma
-* **Database:** PostgreSQL (Supabase)
+* 💼 Software Engineer at **WebAble Digital**
+* 🌐 Building **Modern Web Applications with React & Next.js**
+* 📱 Building **Mobile Apps with React Native**
+* 🗄 Using **Supabase & PostgreSQL as Backend**
+* 📚 Currently learning **advanced frontend architecture**
+* ⚡ Fun fact: I enjoy **history, philosophy, movies, and playing guitar**
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 📱 Ryserved App
+### Frontend
 
-React Native based mobile application with modern UI and API integration.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-🔗 https://github.com/masum-diu/ryserved-app
+### Backend
+
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Styling
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-### 🎬 Movie App
+# 🚀 Featured Projects
 
-Movie application built with Next.js using TMDB API.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=masum-diu\&repo=ryserved-app\&theme=tokyonight)](https://github.com/masum-diu/ryserved-app)
 
-🔗 https://github.com/masum-diu/movie-app
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=masum-diu\&repo=movie-app\&theme=tokyonight)](https://github.com/masum-diu/movie-app)
 
----
-
-### 🛒 Ecommerce Website
-
-Modern ecommerce web application using React and Supabase.
-
-🔗 https://github.com/masum-diu/ecommerce-app
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=masum-diu\&repo=ecommerce-app\&theme=tokyonight)](https://github.com/masum-diu/ecommerce-app)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Masum GitHub stats](https://github-readme-stats.vercel.app/api?username=masum-diu\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 Top Languages
+# 🔥 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum-diu\&layout=compact\&theme=tokyonight)
 
 ---
 
-### 📫 Connect With Me
+# 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/masum-diu/
-* 📧 Email: [mmhmasum98@gmail.com](mailto:mmhmasum98@gmail.com)
+* 📧 Email: **[masum.mollah@webable.digital](mailto:masum.mollah@webable.digital)**
+* 💼 LinkedIn: https://linkedin.com/
 
 ---
 
-⭐️ From [masum-diu](https://github.com/masum-diu)
+⭐️ **Thanks for visiting my profile!**
