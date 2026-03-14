@@ -49,15 +49,6 @@ I enjoy building modern, scalable web and mobile applications with clean UI and 
 
 ---
 
-# 🚀 Featured Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=masum-diu\&repo=ryserved-app\&theme=tokyonight)](https://github.com/masum-diu/ryserved-app)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=masum-diu\&repo=movie-app\&theme=tokyonight)](https://github.com/masum-diu/movie-app)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=masum-diu\&repo=ecommerce-app\&theme=tokyonight)](https://github.com/masum-diu/ecommerce-app)
-
----
 
 # 📊 GitHub Stats
 
