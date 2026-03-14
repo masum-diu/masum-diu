@@ -29,8 +29,8 @@ I love building modern, scalable web and mobile applications with clean UI and g
 
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/
-* 📧 Email: [masum.mollah@webable.digital](mailto:masum.mollah@webable.digital)
+* 💼 LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/masum-diu/)
+* 📧 Email: [mmhmasum98@gmail.com](mailto:mmhmasum98@gmail.com)
 
 ---
 
